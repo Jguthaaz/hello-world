@@ -1,6 +1,6 @@
-# hello-world
-Initial project
+### hello-world
+##Initial project
 
-Hi everybody:
+#Hi everybody:
 
 This is a firts exercise about the github project. I expect I will work a lot with it
