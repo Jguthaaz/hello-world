@@ -1,0 +1,11 @@
+id,cliente,etapa,ultima_interaccion,siguiente_accion,responsable,fecha_accion
+OP01,Empresa Demo 01,Propuesta,2026-10-05,Confirmar recepción de propuesta,Responsable A,2026-10-09
+OP02,Empresa Demo 02,Negociación,2026-10-08,Revisar observaciones recibidas,Responsable B,2026-10-10
+OP03,Empresa Demo 03,Contacto inicial,2026-10-07,Agendar llamada de diagnóstico,Responsable A,2026-10-11
+OP04,Empresa Demo 04,Propuesta,2026-10-09,Validar alcance solicitado,Responsable B,2026-10-12
+OP05,Empresa Demo 05,Diagnóstico,2026-10-10,Preparar preguntas para reunión,Responsable A,2026-10-13
+OP06,Empresa Demo 06,Negociación,2026-10-11,Verificar condiciones acordadas,Responsable B,2026-10-13
+OP07,Empresa Demo 07,Propuesta,2026-10-12,Revisar próxima reunión,Responsable A,2026-10-13
+OP08,Empresa Demo 08,Contacto inicial,2026-10-12,Preparar llamada de presentación,Responsable B,2026-10-14
+OP09,Empresa Demo 09,Diagnóstico,2026-10-12,Revisar requerimientos,Responsable A,2026-10-15
+OP10,Empresa Demo 10,Propuesta,2026-10-12,Preparar seguimiento de propuesta,Responsable B,2026-10-16
